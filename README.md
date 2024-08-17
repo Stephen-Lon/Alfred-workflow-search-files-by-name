@@ -23,12 +23,14 @@ As indicated simply press `esc` to end the workflow.
 
 To run the workflow select a folder in Finder, press your Universal Actions hotkey and look for `Search files by name` in the list of actions. Press <kbd>⏎</kbd> when it is selected, type the word you wish to find in a filename and then press <kbd>⏎</kbd> again.
 
-![Search](https://github.com/user-attachments/assets/2a8882a0-d4d8-4dab-b072-fd7f6019960f)
+![Search](https://github.com/user-attachments/assets/55b59604-48d8-46a1-ab7f-d53b5675c159)
+
 
 
 You then have the option to search the selected folder and subfolders or to search only in the selected folder and you will see this:.
 
-![Choose](https://github.com/user-attachments/assets/b047c84d-d4e7-4f8e-9d68-41fe0b0c7314)
+![Choose](https://github.com/user-attachments/assets/f32e96ec-e220-4043-aa01-a8a3a6cadd5a)
+
 
 
 Select the option you want (if using the default of search including sub-folders you can simply press <kbd>⏎</kbd>) and the result of the search will display (here showing where the option to include sub-folders was used):
